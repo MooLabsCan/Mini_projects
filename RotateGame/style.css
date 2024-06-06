@@ -14,3 +14,12 @@ body {
     overflow: hidden;
     margin: 0;
 }
+
+.container {
+    width: 100vw;
+    text-align: center;
+}
+
+.container img {
+    width: 50%;
+}
