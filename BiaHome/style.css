@@ -41,6 +41,25 @@ form {
     width: 100%;
 }
 
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.linkBox {
+    margin: 15px;
+    width: 80px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.linkBox img {
+    max-width: 95%;
+    border-radius: 15px;
+    box-shadow: 5px 5px rgba(241, 238, 244, 0.5);;
+}
+
 .input::placeholder{
     color: #d5d5d5;
 }
